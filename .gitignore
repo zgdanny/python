@@ -57,3 +57,5 @@ venv/
 
 # macOS
 .DS_Store
+
+tmp_*.py
